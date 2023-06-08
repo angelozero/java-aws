@@ -58,6 +58,9 @@
 				</configuration>
 			</plugin>
 		</plugins>
+
+		<finalName>msjavaaws-docker</finalName>
+
 	</build>
 
 </project>
