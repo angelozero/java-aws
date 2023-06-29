@@ -38,3 +38,6 @@ ENTRYPOINT ["java", "-jar", "/msjavaaws-docker.jar"]
   - testing the image: docker run -p 9090:8080 msjavaaws-docker
   - generate the tag to be pushed: docker tag msjavaaws-docker:latest angelozero/msjavaaws-docker
   - docker push angelozero/msjavaaws-docker
+
+- 8 - Project Stack
+![stack_project](https://i.postimg.cc/1tHxBNW6/Whats-App-Image-2023-06-28-at-22-12-29.jpg)
