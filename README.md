@@ -58,11 +58,14 @@ ENTRYPOINT ["java", "-jar", "/msjavaaws-docker.jar"]
 ---
 
 - 8 - Project Stack
-![stack_project](https://i.postimg.cc/1tHxBNW6/Whats-App-Image-2023-06-28-at-22-12-29.jpg)
+![arc-ref](https://i.postimg.cc/xCQf9YcV/Screen-Shot-2023-07-05-at-11-46-14.png)
 
 ---
+
 - 9 - First par of Cloud Arch ( switch to english )
-![first_part](https://i.postimg.cc/y8ds46KS/Whats-App-Image-2023-07-04-at-22-28-17.jpg) 
+
+![arc-ref-2](https://i.postimg.cc/HsN7dcHG/Screen-Shot-2023-07-05-at-11-52-31.png)
+
   - ### Application Load Balancer
     - Faz o balanceamento de requisições nas instâncias em execução
     - Verifica a integridade da aplicação em execução
