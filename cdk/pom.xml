@@ -31,7 +31,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.0.0</version>
                 <configuration>
-                    <mainClass>com.myorg.CdkApp</mainClass>
+                    <mainClass>com.angelozero.CdkApp</mainClass>
                 </configuration>
             </plugin>
         </plugins>
@@ -44,6 +44,19 @@
             <artifactId>aws-cdk-lib</artifactId>
             <version>${cdk.version}</version>
         </dependency>
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/software.amazon.awscdk/core &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>software.amazon.awscdk</groupId>-->
+<!--            <artifactId>core</artifactId>-->
+<!--            <version>1.204.0</version>-->
+<!--        </dependency>-->
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/software.amazon.awscdk/ec2 &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>software.amazon.awscdk</groupId>-->
+<!--            <artifactId>ec2</artifactId>-->
+<!--            <version>1.204.0</version>-->
+<!--        </dependency>-->
+
 
         <dependency>
             <groupId>software.constructs</groupId>
